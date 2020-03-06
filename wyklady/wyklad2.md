@@ -88,9 +88,15 @@ Egzemplarz:
 
 Opis:
 
-Biblioteka ma wiele egzemplarzy ksiazek.
+Biblioteka ma ksiazki.
 
-Kazdy czytelnik moze wypozycyc wiele egzemplarzy ktore znajduja sie w roznych oddzialach, egzemplarz nie musi byc wyporzyczon
+Jeden pracownik moze obslugiwac wiele zamowien
+
+czytelnik nie musi wypozyczac zadnych ksiazek
+nie kazdy pracownik musi wypozyczac
+
+przedmiotem wypozynie moze byc wiele ksiazek
+do wypozyczenia moze zostac wystawiony dokument, moze byc wystawionych wiele korygujacych
 
 Ksiazka ma swoich autorow i wydawnictwo
 
