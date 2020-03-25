@@ -1,0 +1,18 @@
+2020-03-25
+zdalnie
+
+dostajemy model relacyjny
+	  robimy sql ktory generuje
+
+zadania na zmienianie
+zadania na select, join
+
+
+do 2020-04-10 oddanie laborków
+do 2020-03-29 dostaniemy zadania
+
+
+egzamin - prezentacja - jeden z 16 tematów 5-6 slajdów - dostaniemy slajdy na nastepne
+
+
+piatek 2020-04-03 16:30 - nastepne spotkanie
