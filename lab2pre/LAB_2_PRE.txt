@@ -1,0 +1,18 @@
+[LAB_2_PRE]
+Wykorzystując strukturalny język zapytań (SQL) zaimplementuj bazę danych o następującym schemacie:
+Plik nazwisko.sql wraz z komentarzem należy przesłać do końca dnia 04.05 (poniedziałek).  
+
+DDL:
+Filmy(tytuł, rok, czas_trwania, gatunek, nazwa_studia, id_producenta)
+GwiazdyW(tytuł_filmu, rok_filmu, nazwisko_gwiazdy)
+GwiazdaFilmowa(nazwisko, adres, płeć, data_urodzenia)
+ProducenciFilmowi(nazwisko, adres, nr_certyfikatu, pensja_netto)
+Studio(nazwa, adres, id_studia)
+
+DQL i DML (celem walidacji każdą tabelę należy uzupełnić kilkoma przykładowymi rekordami):
+1. Wyszukaj wszystkie adresy studiów wytwórni 'Paramount'
+2. Wyszukaj datę urodzenia aktora Roberta DeNiro
+3. Wyszukaj wszystkie gwiazdy, które wystąpiły w filmie wyprodukowanym po 1990 roku lub w filmie, którego tytuł zawiera słowo 'street'
+4. Wyszukaj wszystkich wszystkich producentów filmowych zarabiających powyżej 1 000 000$
+5. Wyszukaj wszystkie gwiazdy, które są kobietami albo mieszkają w Miami   
+
