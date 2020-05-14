@@ -1,5 +1,5 @@
 drop database if exists filmy;
-create database filmy;
+create database filmy CHARACTER SET utf8 COLLATE utf8_general_ci;
 use filmy
 
 drop table if exists filmy;

@@ -5,6 +5,8 @@ insert into filmy (tytul,rok,czas_trwania,gatunek,nazwa_studia,id_producenta) va
 insert into filmy (tytul,rok,czas_trwania,gatunek,nazwa_studia,id_producenta) values ("titanic",1997,125,"romantyczny","paramount",2);
 insert into filmy (tytul,rok,czas_trwania,gatunek,nazwa_studia,id_producenta) values ("gwiezdne wojny",1977,125,"akcja","lucasarts",33);
 insert into filmy (tytul,rok,czas_trwania,gatunek,nazwa_studia,id_producenta) values ("street",1975,125,"katastroficzny","lucasarts",666);
+insert into filmy (tytul,rok,czas_trwania,gatunek,nazwa_studia,id_producenta) values ("auta",2006,117,"animowany","pixar",666);
+insert into filmy (tytul,rok,czas_trwania,gatunek,nazwa_studia,id_producenta) values ("up",2010,96,"animowany","disney",666);
 
 
 insert into gwiazdafilmowa (nazwisko, adres, plec, data_urodzenia) values ("deNiro","los angeles","męska",'1956-11-05');
